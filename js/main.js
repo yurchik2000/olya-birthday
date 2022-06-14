@@ -31,3 +31,11 @@ $(".menu, .our-trip__body").on("click","a", function (event) {
       });
 });
 
+// $(document).ready(function() {
+//     $('.footer__img').fancybox({
+//         aspectRatio: 'true',        
+//         // autoHeight: 'true',
+//         // autoSize: 'false',
+//         arrows: 'false'    
+//     })
+// })
