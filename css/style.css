@@ -307,7 +307,7 @@ a{
     justify-content: center;
     
 }
-.hotel__gallery2 video{
+.hotel__gallery2 iframe{
     margin-left: 5px;
     margin-right: 5px;
     margin-bottom: 5px;
@@ -717,6 +717,9 @@ a{
 }
 
     @media (max-width:600px){
+        .container{
+            padding: 0 5px;
+        }
         .header__top{
             justify-content: center;
             flex-wrap: wrap;            
@@ -814,9 +817,8 @@ a{
             font-size: 56px;
             line-height: 85px;
         }
-        .hotel__gallery2 video {
-            width: 100%;
-            height: auto;
+        .hotel__gallery2 iframe {
+            width: 100%;            
         }        
               
      
