@@ -710,7 +710,7 @@ a{
     }
 
     .footer__title{
-        font-size:80px;
+        font-size:80px;        
     }
     
     
@@ -772,8 +772,8 @@ a{
             line-height: 70px;
         }
         .hotel_title2 {
-            font-size: 70px;
-            line-height: 80px;
+            font-size: 50px;
+            line-height: 70px;
         }
         .hotel_title span{
             margin-left: 200px;
@@ -868,7 +868,7 @@ a{
         }
 
         .hotel__inner2{
-            display: none;
+            /* display: none; */
         }
 
         .hotel_title{
@@ -883,7 +883,10 @@ a{
         .fairy_tail__text{
             font-size: 24px;
         }
-
+        .footer__title{
+            font-size: 50px;        
+            line-height: 70px;
+        }   
         .footer__text{
             font-size: 36px;
             line-height: 45px;
@@ -892,7 +895,7 @@ a{
         .hotel__gallery a{            
             padding-right: 5px;
             padding-left: 5px;
-        }        
+        }                
 
 
     }
